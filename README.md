@@ -6,4 +6,5 @@ Package Manager
 `NuGet\Install-Package DotNetCore.CAP.FakeFreeSql -Version 8.0.0.2`
 
 PackageReference
+
 `<PackageReference Include="DotNetCore.CAP.FakeFreeSql" Version="8.0.0.2" />`
